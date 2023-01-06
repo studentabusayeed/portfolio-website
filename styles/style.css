@@ -214,18 +214,19 @@ html {
     font-size: 25px;
     line-height: 29px;
     color: #FFFFFF;
-    margin-bottom: 35px;
+    margin-bottom: 30px;
     margin-left: 100px;
 }
 
-.future-b {
+.future-b input {
     padding: 15px 30px;
     font-weight: 400;
     font-size: 18px;
     line-height: 21px;
-    background: #151414;
-    color: #c7bdbd;
-    border: 1 solid #c7bdbd;
+    /* background: #151414; */
+    background-color: #c1d5d4;
+    color: #342e2e;
+    border: 0;
     border-radius: 5px;
     margin-bottom: 20px;
     display: block;
